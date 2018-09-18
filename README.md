@@ -1,5 +1,5 @@
 # coosa1
-This is the repository for the open source project of COOS A1
+This is the repository for the open source project of COOS A1(http://www.coos.ai)
 
 《COOS A1快速开发教程》用于帮助开发者快速掌握COOS A1套件与COOS物联平台开发的教程。本教程包括了入门篇和进阶篇。
 
